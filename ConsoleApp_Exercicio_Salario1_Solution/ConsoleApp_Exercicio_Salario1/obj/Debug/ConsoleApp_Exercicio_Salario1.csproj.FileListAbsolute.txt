@@ -1,0 +1,6 @@
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\ConsoleApp_Exercicio_Salario1_Solution\ConsoleApp_Exercicio_Salario1\bin\Debug\ConsoleApp_Exercicio_Salario1.exe.config
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\ConsoleApp_Exercicio_Salario1_Solution\ConsoleApp_Exercicio_Salario1\bin\Debug\ConsoleApp_Exercicio_Salario1.exe
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\ConsoleApp_Exercicio_Salario1_Solution\ConsoleApp_Exercicio_Salario1\bin\Debug\ConsoleApp_Exercicio_Salario1.pdb
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\ConsoleApp_Exercicio_Salario1_Solution\ConsoleApp_Exercicio_Salario1\obj\Debug\ConsoleApp_Exercicio_Salario1.csprojResolveAssemblyReference.cache
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\ConsoleApp_Exercicio_Salario1_Solution\ConsoleApp_Exercicio_Salario1\obj\Debug\ConsoleApp_Exercicio_Salario1.exe
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\ConsoleApp_Exercicio_Salario1_Solution\ConsoleApp_Exercicio_Salario1\obj\Debug\ConsoleApp_Exercicio_Salario1.pdb
