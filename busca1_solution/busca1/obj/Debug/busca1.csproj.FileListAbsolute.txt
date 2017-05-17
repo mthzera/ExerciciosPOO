@@ -1,0 +1,6 @@
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\busca1_solution\busca1\bin\Debug\busca1.exe.config
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\busca1_solution\busca1\bin\Debug\busca1.exe
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\busca1_solution\busca1\bin\Debug\busca1.pdb
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\busca1_solution\busca1\obj\Debug\busca1.csprojResolveAssemblyReference.cache
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\busca1_solution\busca1\obj\Debug\busca1.exe
+c:\users\matheus.mcimurro\documents\visual studio 2015\Projects\busca1_solution\busca1\obj\Debug\busca1.pdb
